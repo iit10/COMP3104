@@ -1,0 +1,21 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "��#\u0000#\u0000#\u0000#\u0000 \u0000C\u0000O\u0000M\u0000P\u00003\u00001\u00000\u00004\u0000 \u0000\u0013  \u0000D\u0000e\u0000v\u0000e\u0000l\u0000o\u0000p\u0000e\u0000r\u0000 \u0000O\u0000p\u0000e\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Warning: No tests created yet.\""
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iit10/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iit10/COMP3104/issues"
+  },
+  "homepage": "https://github.com/iit10/COMP3104#readme"
+}
